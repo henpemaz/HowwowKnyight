@@ -53,8 +53,9 @@ namespace HowwowKnyight
         static readonly string Contributor = "Ruttie";
         public HowwowKnyight() : base("HowwowKnyight") { }
 
-        public override string GetVersion() => Assembly.GetExecutingAssembly().GetName().Version.ToString();
-
+        //public override string GetVersion() => Assembly.GetExecutingAssembly().GetName().Version.ToString();
+	//I have no idea how that works, and I want to bump the version number, so I'll jsut do this:
+	public override string GetVersion() => "1.5 owo";
         //int[] nums = new int[] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 }; //sry RedFrog
         Regex r = new Regex(@"\d", RegexOptions.IgnoreCase); //go SFG
 
