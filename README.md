@@ -6,3 +6,5 @@ Uses de Modding API, instaww by pwacing the DWW fiwe into the Mods fowdew.
 
 By Henpemaz aka Henrique Maziero
 (And Ruttie#3005!)
+
+For 1.5: https://github.com/Ruttie2006/HowwowKnyight-1.5/tree/main
